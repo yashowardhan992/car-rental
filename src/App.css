@@ -1,0 +1,28 @@
+*{
+  padding:0;
+  margin:0;
+
+}
+
+html,body{
+  padding:0;
+  margin:0;
+  overflow-x: hidden;
+}
+
+
+
+input{
+  color: #000;
+}
+
+.pagination li {
+  padding : 5px 10px;
+}
+
+.pagination .active {
+  background : #CBD5E1;
+  border-radius : 5px;
+
+}
+
